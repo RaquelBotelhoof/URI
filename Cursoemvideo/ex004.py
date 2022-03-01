@@ -1,5 +1,0 @@
-x = input('Escrava algo:')
-print('O tipo primitivo desse valor é:', type(x))
-print('Só tem espaços:', x.isspace())
-print('É um numero;', x.isnumeric())
-print('É alfabetico:', x.isalpha())
